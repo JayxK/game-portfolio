@@ -1,3 +1,4 @@
+
 ```markdown
 # Портфолио игр Кулаченко Марии
 
@@ -18,6 +19,7 @@
 - Обмен ресурсов у алтаря (система крафта) 
 - Смена времени суток и управление уровнем страха персонажа
 
+<img width="960" alt="farm_menu" src="https://github.com/user-attachments/assets/ca813d1f-925a-4bc7-ba14-aa521c5c46f6" />
 ---
  Arcane Knight: Dungeon Descent (Шутер от первого лица)
 
